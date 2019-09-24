@@ -14,19 +14,19 @@ Message header HNAP_AUTH length is not verified。At the same time, it uses the 
 
 ``` 
 
-![image](https://github.com/WhooAmii/whooamii.github.io/blob/master/2018/DIR-878/1.png)
+![images](https://github.com/WhooAmii/iot/blob/master/DIR-878/1.png)
 
 post package
 
-![image](https://github.com/WhooAmii/whooamii.github.io/blob/master/2018/DIR-878/2.png)
+![images](https://github.com/WhooAmii/iot/blob/master/DIR-878/2.png)
 
 Offset：0x208
 
-![image](https://github.com/WhooAmii/whooamii.github.io/blob/master/2018/DIR-878/3.png)
+![images](https://github.com/WhooAmii/iot/blob/master/DIR-878/3.png)
 
 results:
 
-![image](https://github.com/WhooAmii/whooamii.github.io/blob/master/2018/DIR-878/4.png)
+![images](https://github.com/WhooAmii/iot/blob/master/DIR-878/4.png)
 
 poc
 ```
