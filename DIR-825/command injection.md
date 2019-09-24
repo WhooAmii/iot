@@ -37,10 +37,10 @@ Content-Length: 26
 ntp_server=||cmd||
 
 ```
-![images](https://github.com/WhooAmii/whooamii.github.io/blob/master/2018/DIR-825/11.png)
+![images](https://github.com/WhooAmii/iot/blob/master/DIR-825/11.png)
 
-![images](https://github.com/WhooAmii/whooamii.github.io/blob/master/2018/DIR-825/12.png)
+![images](https://github.com/WhooAmii/iot/blob/master/DIR-825/12.png)
 
 This is the result I got from the qemu simulation environment. 	The input parameters are executed by the system function.
 
-![images](https://github.com/WhooAmii/whooamii.github.io/blob/master/2018/DIR-825/13.pn
+![images](https://github.com/WhooAmii/iot/blob/master/DIR-825/13.png)
