@@ -7,20 +7,20 @@ Vulnerability location: file:  /sbin/httpd  function: do_widget_action
 
 ```
 Vulnerability function:
-![images](https://github.com/WhooAmii/whooamii.github.io/blob/master/2018/DIR-825/1.png)
+![images](https://github.com/WhooAmii/iot/blob/master/DIR-825/1.png)
 
 
 pin number
-![images](https://github.com/WhooAmii/whooamii.github.io/blob/master/2018/DIR-825/2.png)
+![images](https://github.com/WhooAmii/iot/blob/master/DIR-825/2.png)
 
 route_table
-![images](https://github.com/WhooAmii/whooamii.github.io/blob/master/2018/DIR-825/4.png)
+![images](https://github.com/WhooAmii/iot/blob/master/DIR-825/4.png)
 
 mac address,firmware information
-![images](https://github.com/WhooAmii/whooamii.github.io/blob/master/2018/DIR-825/5.png)
+![images](https://github.com/WhooAmii/iot/blob/master/DIR-825/5.png)
 
 wlan interface information
-![images](https://github.com/WhooAmii/whooamii.github.io/blob/master/2018/DIR-825/6.png)
+![images](https://github.com/WhooAmii/iot/blob/master/DIR-825/6.png)
 
 and
-![images](https://github.com/WhooAmii/whooamii.github.io/blob/master/2018/DIR-825/3.png)
+![images](https://github.com/WhooAmii/iot/blob/master/DIR-825/3.png)
