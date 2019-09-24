@@ -5,7 +5,7 @@ version：The latest firmware --netis(WF2411)-V2.1.36123(http://www.netis-system
 
 Different device firmware version numbers may be different
 
-![image](https://github.com/WhooAmii/whooamii.github.io/blob/master/2018/netis/1.png)
+![images](https://github.com/WhooAmii/iot/blob/master/netis/1.png)
 
 Vulnerability location: file:  /bin/boa
 
@@ -21,7 +21,7 @@ An attacker can restart a remote device by sending a malicious packet.
 Code execution can also be achieved through ROP technology, but it is more difficult
 
 This vulnerability can be triggered by a normal get packet
-![image](https://github.com/WhooAmii/whooamii.github.io/blob/master/2018/netis/2.png)
+![images](https://github.com/WhooAmii/iot/blob/master/netis/2.png)
 ## POC
 ```
 import requests
@@ -63,16 +63,16 @@ if __name__ == "__main__":
 
 
 ```
-![image](https://github.com/WhooAmii/whooamii.github.io/blob/master/2018/netis/3.png)
-![image](https://github.com/WhooAmii/whooamii.github.io/blob/master/2018/netis/4.png)
+![images](https://github.com/WhooAmii/iot/blob/master/netis/3.png)
+![images](https://github.com/WhooAmii/iot/blob/master/netis/4.png)
 
 ## Harm
 Can be accessed on the public network
 An attacker can make all WF Series devices unusable by sending packets continuously
-![image](https://github.com/WhooAmii/whooamii.github.io/blob/master/2018/netis/6.png)
+![images](https://github.com/WhooAmii/iot/blob/master/netis/6.png)
 
-![image](https://github.com/WhooAmii/whooamii.github.io/blob/master/2018/netis/7.png)
+![images](https://github.com/WhooAmii/iot/blob/master/netis/7.png)
 
-![image](https://github.com/WhooAmii/whooamii.github.io/blob/master/2018/netis/9.png)
+![images](https://github.com/WhooAmii/iot/blob/master/netis/8.png)
 
-![image](https://github.com/WhooAmii/whooamii.github.io/blob/master/2018/netis/8.png)
+![images](https://github.com/WhooAmii/iot/blob/master/netis/9.png)
