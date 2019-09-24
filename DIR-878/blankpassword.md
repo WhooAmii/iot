@@ -15,11 +15,11 @@ The program uses the strncmp function to compare passwords.
 The length of the comparison is the length of the user input.
 If the user input is empty, the verification passes。At the same time it can be used to blast passwords. Only need to blast 16*32 times
 ```
-![image](https://github.com/WhooAmii/whooamii.github.io/blob/master/2018/DIR-878/5.png)
+![images](https://github.com/WhooAmii/iot/blob/master/DIR-878/5.png)
 
 post package 
-![image](https://github.com/WhooAmii/whooamii.github.io/blob/master/2018/DIR-878/6.png)
-![image](https://github.com/WhooAmii/whooamii.github.io/blob/master/2018/DIR-878/7.png)
+![images](https://github.com/WhooAmii/iot/blob/master/DIR-878/6.png)
+![images](https://github.com/WhooAmii/iot/blob/master/DIR-878/7.png)
 
 results:
 This login status allows us to enter more function flow. Increased attack range
