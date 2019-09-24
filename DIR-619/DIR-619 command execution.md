@@ -32,9 +32,9 @@ submit-url=1234&sysCmd=telnetd+-p+90
 The same problem exists with the latest firmware 2.12B1 on the DIR-605L.
 download link:ftp://ftp2.dlink.com/SECURITY_ADVISEMENTS/DIR-605L/REVB/
 
-![image](https://github.com/WhooAmii/whooamii.github.io/blob/master/2018/8.png)
+![images](https://github.com/WhooAmii/iot/blob/master/DIR-619/8.png)
 
-![image](https://github.com/WhooAmii/whooamii.github.io/blob/master/2018/7.png)
+![images](https://github.com/WhooAmii/iot/blob/master/DIR-619/7.png)
 
 
 
