@@ -5,7 +5,7 @@ The cause of this vulnerability is because a path loginFs that anyone can call h
 function, and the processing function of this path did not properly handle the "../" input
 
 Vulnerable Program：httpd
-Firmware link：
+Firmware link：https://github.com/WhooAmii/iot/blob/master/TL-WR720/720N%20v4.bin
 We can't download v4 firmware from the official website of tplink. I analyzed by removing the firmware from the device. 
 
 
